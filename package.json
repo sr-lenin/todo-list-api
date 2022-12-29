@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "api": "json-server api/db.json",
+        "start": "servor . --reload --browse"
+    },
+    "dependencies": {
+        "json-server": "0.17.1",
+        "servor": "4.0.2"
+    }
+}
